@@ -150,7 +150,7 @@ def get_alpha(string):
 def get_variable(string):
 	'''
 	returns variable of string
-	ex :
+	ex :-
 		input 23s
 		returns s
 	'''
